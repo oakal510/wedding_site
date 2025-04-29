@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center;     /* Vertical centering */
+    background-color: #fff;  /* Optional background color */
+}
+
+img {
+    max-width: 100%;         /* Ensures responsive scaling */
+    height: auto;
+}
